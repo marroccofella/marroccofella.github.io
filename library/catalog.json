@@ -441,7 +441,8 @@
     "title": "Research Bundle Changelog",
     "icon": "≡",
     "blurb": "Version history for the public ComfyUI research bundle.",
-    "url": "/research-data/CHANGELOG.md",
+    "url": "https://marroccofella.github.io/library/research-changelog/",
+    "downloadUrl": "/research-data/CHANGELOG.md",
     "pagesUrl": "https://marroccofella.github.io/library/research-changelog/",
     "kind": "text",
     "order": 500,
@@ -449,6 +450,11 @@
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/research-changelog/index.html",
     "published": "2026-08-05",
-    "version": "1.0"
+    "version": "1.0",
+    "details": [
+      "9 September 2026: corrected the PyTorch allocator documentation link. The v1.0 protocol, original review date and zero-result status stayed unchanged; this was a citation correction, not a new benchmark result.",
+      "Version 1.0, 5 August 2026: published the controlled low-VRAM methodology and empty results template, source-linked installation routes and workflow register, and the FLUX.2 Klein source register. No completed local benchmark results were claimed."
+    ],
+    "requirements": "Read this summary in your browser. Use Download file to save the original Markdown changelog."
   }
 ]
