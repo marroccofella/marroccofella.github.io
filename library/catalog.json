@@ -19,7 +19,7 @@
   },
   {
     "title": "FG2CU OS",
-    "url": "/FG2CU-OS/",
+    "url": "/FG2CU-OS/?v=20260916-audit",
     "kind": "project",
     "icon": "🖥",
     "order": 20,
@@ -33,11 +33,11 @@
   },
   {
     "title": "TubePilot",
-    "url": "/tubepilot/",
+    "url": "/tubepilot/?v=20260916-audit",
     "kind": "project",
     "icon": "▶",
     "order": 30,
-    "blurb": "Check a public YouTube video’s published category and basic metadata using your own YouTube Data API key.",
+    "blurb": "Check a YouTube video’s category using your own YouTube Data API key, with a no-key example and clear lookup limitations.",
     "id": "tubepilot",
     "pagesUrl": "https://marroccofella.github.io/library/tubepilot/",
     "pageType": "Project information",
@@ -48,7 +48,7 @@
   },
   {
     "title": "SysPulse",
-    "url": "/syspulse/",
+    "url": "/syspulse/?v=20260916-audit",
     "kind": "project",
     "icon": "◎",
     "order": 40,
@@ -58,7 +58,7 @@
     "pageType": "Project information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/syspulse/index.html",
-    "requirements": "Windows 10/11 and PowerShell. GPU counters and system tuning may require administrator access; the monitor runs locally, not in the browser.",
+    "requirements": "Windows and PowerShell. The current script requests administrator access when it starts. It runs locally; review its tuning actions and retained authorship and licence notices before use.",
     "category": "apps-tools"
   },
   {
@@ -102,12 +102,12 @@
     "pageType": "Project information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/momm-diffusion/index.html",
-    "requirements": "A browser and configured cloud access, or the documented local diffusion setup. Model downloads, hardware requirements and provider charges depend on the selected route.",
+    "requirements": "Local mode needs a running compatible ComfyUI server, a supported checkpoint, and enough GPU or system memory and disk space for that model. Cloud mode needs your selected provider key and may incur separate charges.",
     "category": "apps-tools"
   },
   {
     "title": "ComfyUI Ecosystem TAM",
-    "url": "/comfyui-ecosystem/",
+    "url": "/comfyui-ecosystem/?v=20260916-audit",
     "kind": "project",
     "icon": "◈",
     "order": 80,
@@ -151,7 +151,7 @@
   },
   {
     "title": "Nexus Colour Sim",
-    "url": "/nexus-jon-colour-sim/",
+    "url": "/nexus-jon-colour-sim/?v=20260916-audit",
     "kind": "project",
     "icon": "⬡",
     "order": 110,
@@ -487,5 +487,24 @@
     ],
     "requirements": "Read this summary in your browser. Use Download file to save the original Markdown changelog.",
     "category": "research-guides"
+  },
+  {
+    "id": "britannic-atlas",
+    "title": "Britannic Atlas",
+    "icon": "🗺",
+    "blurb": "Project guide for the British-world reference app and its separate local Mannin companion.",
+    "url": "https://marroccofella.github.io/britannic-atlas/",
+    "pagesUrl": "https://marroccofella.github.io/britannic-atlas/",
+    "kind": "project",
+    "order": 455,
+    "pageType": "Project guide and local setup",
+    "sourceKind": "repo",
+    "sourceUrl": "https://github.com/marroccofella/britannic-atlas",
+    "category": "apps-tools",
+    "requirements": "Read the guide in your browser. Running the full atlas requires Node.js 22.13+ and npm. Mannin has additional local setup and remains a supervised internal alpha.",
+    "details": [
+      "The GitHub Page is a project guide, not the running server application.",
+      "The repository contains source-linked knowledge pages and a separate Manx-first local answer engine; individual sources and answers still need verification."
+    ]
   }
 ]
