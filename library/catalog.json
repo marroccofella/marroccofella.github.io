@@ -125,13 +125,13 @@
     "kind": "project",
     "icon": "◇",
     "order": 90,
-    "blurb": "ComfyUI TAM deep-dive report — July 2025 market sizing and node ecosystem breakdown.",
+    "blurb": "ComfyUI ecosystem research, installation sources and reproducible testing, with a corrected July 2025 archive.",
     "id": "comfytam-july-2025",
     "pagesUrl": "https://marroccofella.github.io/library/comfytam-july-2025/",
     "pageType": "Research information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/comfytam-july-2025/index.html",
-    "requirements": "A browser. Market sizing is a dated research estimate; check each chapter’s evidence and publication date.",
+    "requirements": "A browser. This guide separates dated research hypotheses from current sources; it contains no measured benchmark or validated market-size estimate.",
     "category": "research-guides"
   },
   {
