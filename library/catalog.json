@@ -14,7 +14,8 @@
     "requirements": "A browser and the hosted 42.uk data service. Available instruments and market data depend on that service.",
     "details": [
       "The simulator compares recurring investment rules with the same contributed cash. Read the displayed data dates and assumptions before interpreting an outcome."
-    ]
+    ],
+    "category": "apps-tools"
   },
   {
     "title": "FG2CU OS",
@@ -27,7 +28,8 @@
     "pagesUrl": "https://marroccofella.github.io/library/fg2cu-os/",
     "pageType": "Project information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/fg2cu-os/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/fg2cu-os/index.html",
+    "category": "apps-tools"
   },
   {
     "title": "TubePilot",
@@ -35,13 +37,14 @@
     "kind": "project",
     "icon": "▶",
     "order": 30,
-    "blurb": "YouTube category checker and channel review workspace for inspecting video classification and channel metadata.",
+    "blurb": "Check a public YouTube video’s published category and basic metadata using your own YouTube Data API key.",
     "id": "tubepilot",
     "pagesUrl": "https://marroccofella.github.io/library/tubepilot/",
     "pageType": "Project information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/tubepilot/index.html",
-    "requirements": "A browser and the hosted YouTube lookup service. Lookups depend on provider availability and quota."
+    "requirements": "A browser and your own YouTube Data API v3 key. Requests go directly to Google; API availability, key restrictions and quota apply.",
+    "category": "apps-tools"
   },
   {
     "title": "SysPulse",
@@ -55,7 +58,8 @@
     "pageType": "Project information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/syspulse/index.html",
-    "requirements": "Windows 10/11 and PowerShell. GPU counters and system tuning may require administrator access; the monitor runs locally, not in the browser."
+    "requirements": "Windows 10/11 and PowerShell. GPU counters and system tuning may require administrator access; the monitor runs locally, not in the browser.",
+    "category": "apps-tools"
   },
   {
     "title": "The Primer",
@@ -68,7 +72,8 @@
     "pagesUrl": "https://marroccofella.github.io/library/primer/",
     "pageType": "Project information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/primer/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/primer/index.html",
+    "category": "research-guides"
   },
   {
     "title": "CLAW Naming Report",
@@ -82,7 +87,8 @@
     "pageType": "Research information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/claw/index.html",
-    "requirements": "A browser. This is a dated research report; its domain and trademark statements are not a current availability or clearance check."
+    "requirements": "A browser. This is a dated research report; its domain and trademark statements are not a current availability or clearance check.",
+    "category": "research-guides"
   },
   {
     "title": "42 MOMM Diffusion",
@@ -96,7 +102,8 @@
     "pageType": "Project information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/momm-diffusion/index.html",
-    "requirements": "A browser and configured cloud access, or the documented local diffusion setup. Model downloads, hardware requirements and provider charges depend on the selected route."
+    "requirements": "A browser and configured cloud access, or the documented local diffusion setup. Model downloads, hardware requirements and provider charges depend on the selected route.",
+    "category": "apps-tools"
   },
   {
     "title": "ComfyUI Ecosystem TAM",
@@ -109,7 +116,8 @@
     "pagesUrl": "https://marroccofella.github.io/library/comfyui-ecosystem/",
     "pageType": "Research information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/comfyui-ecosystem/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/comfyui-ecosystem/index.html",
+    "category": "research-guides"
   },
   {
     "title": "ComfyTAM July 2025",
@@ -123,7 +131,8 @@
     "pageType": "Research information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/comfytam-july-2025/index.html",
-    "requirements": "A browser. Market sizing is a dated research estimate; check each chapter’s evidence and publication date."
+    "requirements": "A browser. Market sizing is a dated research estimate; check each chapter’s evidence and publication date.",
+    "category": "research-guides"
   },
   {
     "title": "@TEROIDS",
@@ -137,7 +146,8 @@
     "pageType": "Game and play link",
     "sourceKind": "code",
     "sourceUrl": "https://github.com/marroccofella/ateroids",
-    "requirements": "A modern browser; keyboard or on-screen touch controls."
+    "requirements": "A modern browser; keyboard or on-screen touch controls.",
+    "category": "games"
   },
   {
     "title": "Nexus Colour Sim",
@@ -151,7 +161,8 @@
     "pageType": "Project information",
     "sourceKind": "page",
     "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/nexus-colour-sim/index.html",
-    "requirements": "A modern browser. This is a status-colour prototype, not a live job-monitoring service."
+    "requirements": "A modern browser. This is a status-colour prototype, not a live job-monitoring service.",
+    "category": "apps-tools"
   },
   {
     "title": "Research Dispatches",
@@ -164,7 +175,8 @@
     "pagesUrl": "https://marroccofella.github.io/library/research-dispatches/",
     "pageType": "Research information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/research-dispatches/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/research-dispatches/index.html",
+    "category": "research-guides"
   },
   {
     "title": "The Manifesto",
@@ -177,7 +189,8 @@
     "pagesUrl": "https://marroccofella.github.io/library/manifesto/",
     "pageType": "Essay information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/manifesto/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/manifesto/index.html",
+    "category": "about-42"
   },
   {
     "title": "About",
@@ -190,7 +203,8 @@
     "pagesUrl": "https://marroccofella.github.io/library/about/",
     "pageType": "Site information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/about/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/about/index.html",
+    "category": "about-42"
   },
   {
     "id": "freeloader-42",
@@ -203,7 +217,8 @@
     "order": 340,
     "pageType": "Game and play link",
     "sourceKind": "code",
-    "sourceUrl": "https://github.com/marroccofella/games/tree/main/freeloader-42"
+    "sourceUrl": "https://github.com/marroccofella/games/tree/main/freeloader-42",
+    "category": "games"
   },
   {
     "id": "crumble-invaders",
@@ -216,7 +231,8 @@
     "order": 350,
     "pageType": "Browser game",
     "sourceKind": "code",
-    "sourceUrl": "https://github.com/marroccofella/games/tree/main/crumble-invaders"
+    "sourceUrl": "https://github.com/marroccofella/games/tree/main/crumble-invaders",
+    "category": "games"
   },
   {
     "id": "momm-man",
@@ -229,7 +245,8 @@
     "order": 360,
     "pageType": "Game and play link",
     "sourceKind": "code",
-    "sourceUrl": "https://github.com/marroccofella/games/tree/main/momm-man"
+    "sourceUrl": "https://github.com/marroccofella/games/tree/main/momm-man",
+    "category": "games"
   },
   {
     "id": "jacko",
@@ -242,7 +259,8 @@
     "order": 370,
     "pageType": "Browser game",
     "sourceKind": "code",
-    "sourceUrl": "https://github.com/marroccofella/jacko"
+    "sourceUrl": "https://github.com/marroccofella/jacko",
+    "category": "games"
   },
   {
     "id": "skills",
@@ -255,7 +273,8 @@
     "order": 380,
     "pageType": "Skill collection",
     "sourceKind": "code",
-    "sourceUrl": "https://github.com/marroccofella/skills"
+    "sourceUrl": "https://github.com/marroccofella/skills",
+    "category": "agent-skills"
   },
   {
     "id": "momm",
@@ -268,7 +287,8 @@
     "order": 390,
     "pageType": "Skill guide",
     "sourceKind": "code",
-    "sourceUrl": "https://github.com/marroccofella/skills/tree/main/momm"
+    "sourceUrl": "https://github.com/marroccofella/skills/tree/main/momm",
+    "category": "agent-skills"
   },
   {
     "id": "mytravel",
@@ -287,7 +307,8 @@
     "details": [
       "Considers dates, airports, cabins, loyalty options, stopovers and ground transport against the user’s requirements. Challenges the preferred itinerary and checks the completed booking and usable benefits.",
       "Synthetic decision checks cover planning rules; they do not establish that a live fare is available or that a booking has succeeded."
-    ]
+    ],
+    "category": "agent-skills"
   },
   {
     "id": "myrepo",
@@ -305,7 +326,8 @@
     "details": [
       "Publishes browser-ready projects, or provides a landing page for projects that need local software. Preserves existing documentation by default.",
       "Checks publishable files and the Git history being introduced for secrets and machine-specific paths. Its offline self-test checks safety gates separately from GitHub account readiness."
-    ]
+    ],
+    "category": "agent-skills"
   },
   {
     "id": "myvoice",
@@ -323,7 +345,8 @@
     "details": [
       "myvoice is the short callable name for promptus-clone-voice. Follow the full canonical protocol linked below.",
       "Generation is local. Reference admission, signal and word checks, and a recorded human listening verdict precede acceptance. Label shared cloned speech as synthetic."
-    ]
+    ],
+    "category": "agent-skills"
   },
   {
     "id": "myautoness",
@@ -341,7 +364,8 @@
     "details": [
       "Uses classical search and planning, seeded exploration and verified input traces. It does not train a neural network. “autopilot” is its legacy alias.",
       "A lesson is saved only after clean-start replay verifies success against the same engine and content. Observation mode first checks control, visibility, coherent observations and a clear outcome."
-    ]
+    ],
+    "category": "agent-skills"
   },
   {
     "id": "myskills",
@@ -359,7 +383,8 @@
     "details": [
       "Checks MOMM, myrepo, myautoness, yorkshire-pudding/yorky and promptus-clone-voice/myvoice. Aliases belong to their canonical family; My Travel is outside this executable health suite.",
       "Quick mode skips live probes and marks those dependencies not checked. Passing code checks do not mean every required service is ready."
-    ]
+    ],
+    "category": "agent-skills"
   },
   {
     "id": "yorky",
@@ -377,7 +402,8 @@
     "details": [
       "yorky is the short callable name for yorkshire-pudding. Choose mild, proper or broad dialect.",
       "The prose tool and the agent’s code-editing protocol are distinct: identifiers, keys, URLs, placeholders and program behaviour must remain intact."
-    ]
+    ],
+    "category": "agent-skills"
   },
   {
     "id": "media-lab",
@@ -395,7 +421,8 @@
     "details": [
       "The public repository named 42 contains this Media Lab application. It is separate from the 42.uk website catalog and from 42 MOMM Diffusion.",
       "The app uses React, TypeScript and Vite, with Gemini for structured editing cues and ffmpeg.wasm for browser media handling. This is an editing-cue workspace, not a claim of automatic finished-video generation."
-    ]
+    ],
+    "category": "apps-tools"
   },
   {
     "id": "low-vram-methodology",
@@ -408,7 +435,8 @@
     "order": 470,
     "pageType": "Research information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/low-vram-methodology/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/low-vram-methodology/index.html",
+    "category": "research-guides"
   },
   {
     "id": "installation-matrix",
@@ -421,7 +449,8 @@
     "order": 480,
     "pageType": "Research information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/installation-matrix/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/installation-matrix/index.html",
+    "category": "research-guides"
   },
   {
     "id": "workflow-library",
@@ -434,7 +463,8 @@
     "order": 490,
     "pageType": "Research information",
     "sourceKind": "page",
-    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/workflow-library/index.html"
+    "sourceUrl": "https://github.com/marroccofella/marroccofella.github.io/blob/main/library/workflow-library/index.html",
+    "category": "research-guides"
   },
   {
     "id": "research-changelog",
@@ -455,6 +485,7 @@
       "9 September 2026: corrected the PyTorch allocator documentation link. The v1.0 protocol, original review date and zero-result status stayed unchanged; this was a citation correction, not a new benchmark result.",
       "Version 1.0, 5 August 2026: published the controlled low-VRAM methodology and empty results template, source-linked installation routes and workflow register, and the FLUX.2 Klein source register. No completed local benchmark results were claimed."
     ],
-    "requirements": "Read this summary in your browser. Use Download file to save the original Markdown changelog."
+    "requirements": "Read this summary in your browser. Use Download file to save the original Markdown changelog.",
+    "category": "research-guides"
   }
 ]
