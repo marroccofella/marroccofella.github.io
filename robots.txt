@@ -2,3 +2,5 @@ User-agent: *
 Allow: /
 
 Sitemap: https://marroccofella.github.io/sitemap-index.xml
+Sitemap: https://marroccofella.github.io/sitemap.xml
+Sitemap: https://marroccofella.github.io/skills/sitemap.xml

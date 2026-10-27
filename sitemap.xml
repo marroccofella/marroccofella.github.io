@@ -3,7 +3,9 @@
   <url><loc>https://marroccofella.github.io/</loc><priority>0.6</priority></url>
   <url><loc>https://marroccofella.github.io/games/</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
   <url><loc>https://marroccofella.github.io/games/momm-man/</loc><priority>0.7</priority></url>
+  <url><loc>https://marroccofella.github.io/games/momm-man/play.html</loc><lastmod>2026-10-27</lastmod></url>
   <url><loc>https://marroccofella.github.io/games/ateroids/</loc><priority>0.7</priority></url>
+  <url><loc>https://marroccofella.github.io/games/ateroids/play.html</loc></url>
   <url><loc>https://marroccofella.github.io/skills/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
   <url><loc>https://marroccofella.github.io/skills/momm/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
   <url><loc>https://marroccofella.github.io/skills/evidence/</loc><changefreq>daily</changefreq><priority>0.7</priority></url>
@@ -27,6 +29,7 @@
   <url><loc>https://marroccofella.github.io/library/research-changelog/</loc></url>
   <url><loc>https://marroccofella.github.io/britannic-atlas/</loc><lastmod>2026-09-16</lastmod></url>
   <url><loc>https://marroccofella.github.io/games/freeloader-42/</loc></url>
+  <url><loc>https://marroccofella.github.io/games/freeloader-42/releases/2026.09.15-portal-recovery.html</loc><lastmod>2026-10-27</lastmod></url>
   <url><loc>https://marroccofella.github.io/games/crumble-invaders/</loc></url>
   <url><loc>https://marroccofella.github.io/jacko/</loc></url>
   <url><loc>https://marroccofella.github.io/42/</loc></url>
